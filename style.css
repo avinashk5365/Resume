@@ -31,7 +31,7 @@
     scroll-behavior: smooth;
 }
 
-/* :root {
+:root {
     --bg-color: #e3edf7;
     --gradient-white-bg: linear-gradient(0deg, #fff 0%, #edf4fa 51%, #e5eef7 100%);
     --gradient-color-bg: linear-gradient(180deg, rgba(247, 1, 120, 1)0%,
@@ -42,7 +42,7 @@
     --hover-box-shadow: rgba(0, 0, 0, 0.19)0px 10px 20px,
         rgba(0, 0, 0, 0.23)0px 6px 6px;
     --gradient-white-bg2: linear-gradient(98deg, #e5eef7 0%, #fff 100%);
-} */
+}
 
 a {
     text-decoration: none;
